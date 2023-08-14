@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+
+
 def add(a, b):
     """My addition function
 
@@ -49,5 +51,3 @@ def div(a, b):
         The return value. a / b
     """
     return int(a / b)
-
-
